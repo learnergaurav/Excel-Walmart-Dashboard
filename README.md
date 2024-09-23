@@ -1,8 +1,6 @@
 # Excel-Walmart-Dashboard
 Dynamic Retail Dashboard on Excel
-Here's a detailed description you can use for your **Dynamic Retail Dashboard on Excel** project on GitHub:
 
----
 
 # Dynamic Retail Dashboard on Excel
 
