@@ -146,3 +146,6 @@ The **Dynamic Retail Dashboard** is a powerful tool that provides retailers with
 - Drill down into specific categories, segments, or customers.
 - Track return rates and analyze their impact on profitability.
 - Identify high-potential customers and areas of improvement for low-performing ones.
+
+- ## Screenshot
+![Screenshot (942)](https://github.com/user-attachments/assets/33d8eea1-d274-4808-98d9-21a57c6d86ba)
